@@ -1,0 +1,2 @@
+OpenRC/ARMtix-OpenRC-base.img.xz filter=lfs diff=lfs merge=lfs -text
+runit/ARMtix-runit-base.img.xz filter=lfs diff=lfs merge=lfs -text
